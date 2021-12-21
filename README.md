@@ -18,3 +18,5 @@ Components needed :
 NOTE : In this case, the frontal tyres of car model are not connected to any motors and so the steering module is created by connecting them to a servo which turns a few degrees to steer both wheels in the desired direction.
 
 Code might differ a bit for creators who have incorporated variation in steering mechanism.
+
+#NOTE: Although not compulsary, but the code also gives way to establish user access to a serial connection which could be used to trasfer data between an Arduino device and our Raspberry Pi. This serial connection could be used to control/analyse different components via Arduino and then share that data with the Raspberry Pi.
