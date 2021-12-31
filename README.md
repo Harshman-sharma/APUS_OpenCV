@@ -9,11 +9,12 @@ The code in APUS.py is divided into 3 parts, for 3 different purposes, ie,
 Components needed : 
 1) 1 Raspberry Pi (any model)
 2) 1 PiCam module
-3) 1 Servo
-4) 2 Motors
-5) 1 car chassis
-6) 1 power source
-7) Jumper wires
+3) 1 Arduino (any model)
+4) 1 Servo
+5) 2 Motors
+6) 1 car chassis
+7) 1 power source
+8) Jumper wires
 
 NOTE : In this case, the frontal tyres of car model are not connected to any motors and so the steering module is created by connecting them to a servo which turns a few degrees to steer both wheels in the desired direction.
 
