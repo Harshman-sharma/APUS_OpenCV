@@ -1,10 +1,10 @@
 # APUS_OpenCV
-A basic program to demonstrate how OpenCV and raspberry Pi 3 Model B can be used to built a Self Driving car model.
+A python program to demonstrate how OpenCV and raspberry Pi 3 Model B can be used to built a basic Self Driving car model.
 
 The code in APUS.py is divided into 3 parts, for 3 different purposes, ie, 
-1) Stop sign detection, 
-2) Traffic lights detection, 
-3) Detecting the lane in which car is moving and keeping the car on track by steering it when needed.
+1) Object detection : Stop sign detection, 
+2) Object detection : Traffic lights detection, 
+3) Hough lines : To Detect the lane in which the car is moving and steer accordingly.
 
 Components needed : 
 1) 1 Raspberry Pi (any model)
