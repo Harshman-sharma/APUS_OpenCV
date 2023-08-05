@@ -8,8 +8,10 @@ The code in APUS.py is divided into 3 parts, for 3 different purposes, ie,
 
 OUTPUTS:
 
+1) Lane detection and steering output
 ![image](https://github.com/Harshman-sharma/APUS_OpenCV/assets/44753624/cbbddeba-498a-405e-a75b-4791d960b2eb)
 
+2) Stopping at red traffic light for 5 seconds
 ![image](https://github.com/Harshman-sharma/APUS_OpenCV/assets/44753624/a4606079-73bd-4826-98e6-1eb8ee0a5cbf)
 
 
